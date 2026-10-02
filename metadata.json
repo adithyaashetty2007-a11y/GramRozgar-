@@ -1,0 +1,6 @@
+{
+  "name": "GramRozgar",
+  "description": "Smart Business Guidance for Rural India. AI-powered rural business advisory platform helping first-time rural entrepreneurs evaluate market feasibility, finances, and government schemes.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
